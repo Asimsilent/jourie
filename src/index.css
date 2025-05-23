@@ -1,0 +1,43 @@
+
+.face {
+  position: absolute;
+  background-image: url("background.png");
+  background-size: cover;
+  background-position: center;
+  width: 200px;
+  height: 200px;
+  /* align-items:normal */
+  /* background: rgba(79, 77, 77, 0.5);
+  border: 1px solid #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: bold; */
+  /* transform: transform 1s ease-in-out; */
+}
+
+/* Positioning the cube faces */
+/* .front {
+  transform: translateZ(100px);
+}
+.back {
+  transform: rotateY(180deg) translateZ(100px);
+}
+.right {
+  transform: rotateY(90deg) translateZ(100px);
+}
+.left {
+  transform: rotateY(-90deg) translateZ(100px);
+}
+.top {
+  transform: rotateX(90deg) translateZ(100px);
+}
+.bottom {
+  transform: rotateX(-90deg) translateZ(100px);
+}
+
+.top.open-top {
+  transform: rotateX(90deg) translateZ(300px) translateY(100px);
+  transform-origin: bottom center;
+} */
