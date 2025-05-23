@@ -1,7 +1,7 @@
 
 .face {
   position: absolute;
-  background-image: url("background.png");
+  background-image: url("/background.png");
   background-size: cover;
   background-position: center;
   width: 200px;
